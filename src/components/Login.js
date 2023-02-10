@@ -67,7 +67,7 @@ const Login = () => {
             style={{ marginTop: "20px" }}
             onClick={() => handleSubmit()}
           >
-            Log In
+            Loged In
           </button>
         </div>
         {!haveAnAcc && <a href="/signup">Dont have an Account? Sign up</a>}
